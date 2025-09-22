@@ -52,7 +52,6 @@ a {
 .hero-section {
     text-align: center;
     padding: 100px 20px;
-    background-color: #f7f7f7;
 }
 
 .hero-section h1 {
@@ -90,14 +89,12 @@ a {
     width: 100%;
     height: auto;
     display: block;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 .caption {
     font-size: 12px;
     margin-top: 10px;
     color: #666;
-    font-style: italic;
     line-height: 1.4;
 }
 
@@ -106,8 +103,6 @@ a {
     justify-content: center;
     gap: 40px;
     padding: 50px;
-    background-color: #f7f7f7;
-    border-top: 1px solid #ddd;
 }
 
 .footer-left {
